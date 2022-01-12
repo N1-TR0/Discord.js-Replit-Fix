@@ -1,7 +1,7 @@
 # Discord.js v13 Fix For Replit
 
 Fixes The Missing Module issue When Your Code is Ran On Repl.it 
-You Could Try it With The Test Script That included [Here]()
+You Could Try it With The Test Script That included [Here](https://github.com/N1-TR0/Discord.js-Replit-Fix/blob/main/src/index.js)
 
 ## Running The Fix
 
