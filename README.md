@@ -5,7 +5,6 @@ You Could Try it With The Test Script That included [Here](https://github.com/N1
 
 ## Running The Fix
 
-You Can Fork it [Here](https://replit.com/@nitroservices/V13-Fix?v=1)
 
 or Run These Lines Of Code in the in the Terminal
 
