@@ -33,4 +33,4 @@ Don't Use `npm i ` you need to put the pkgs names like `npm install discord.js E
 
 ## Join The Developers Cafe
 
-<iframe src="https://discord.com/widget?id=829049274623983616&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+![Discord Banner 2](https://discordapp.com/api/guilds/829049274623983616/widget.png?style=banner2)
